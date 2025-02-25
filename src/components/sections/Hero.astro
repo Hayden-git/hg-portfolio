@@ -48,10 +48,12 @@ const { city, region} = location
           </div>
         </div>
       </div>
-      <div data-ccursor="noPadding" class='flex w-max gap-2 py-1 px-2 text-sm text-skin-muted'>
-        <Icon class='print:hidden sm:group-hover:text-skin-hue' name='mdi:world' width={20} height={20} />
-         {city}, {region}
-      </div>
+        <a data-ccursor="noPadding" class='flex w-max gap-2 py-1 px-2 text-sm text-skin-muted' target="_blank" href="https://www.google.com/maps/place/Sarasota,+FL/@27.3412157,-82.5759463,13z/data=!3m1!4b1!4m6!3m5!1s0x88c337e69db2c22b:0xe335341d1d5715d9!8m2!3d27.336465!4d-82.5310117!16zL20vMHJyd3Q?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D">
+          <Icon class='print:hidden sm:group-hover:text-skin-hue' name='mdi:world' width={20} height={20} />
+          
+          
+          {city}, {region}
+        </a>
     </section>
   </div>
   <div class='flex gap-6 print:hidden'>
