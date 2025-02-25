@@ -251,8 +251,7 @@
 				"Streamlit": "simple-icons:streamlit",
 				"Pandas": "simple-icons:pandas",
 				"Plotly": "simple-icons:plotly"
-			},
-			"url": "https://hg-dev-stock-forecast.streamlit.app/"
+			}
 		},
 		{
 			"name": "Banking App",
@@ -266,8 +265,7 @@
 				"Sentry": "simple-icons:sentry",
 				"NextJS": "simple-icons:nextdotjs",
 				"Appwrite": "simple-icons:appwrite"
-			},
-			"url": "https://banking-app-mu-pink.vercel.app/sign-in"
+			}
 		},
 		{
 			"name": "Portfolio",
@@ -282,8 +280,7 @@
 				"NodeJS": "ri:nodejs-line",
 				"PNPM": "simple-icons:pnpm",
 				"Vercel": "simple-icons:vercel"
-			},
-			"url": "https://hg-portfolio-me.vercel.app/"
+			}
 		}
 	]
 }
