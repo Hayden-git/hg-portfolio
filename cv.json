@@ -252,7 +252,7 @@
 				"Pandas": "simple-icons:pandas",
 				"Plotly": "simple-icons:plotly"
 			},
-			"url": "hg-dev-stock-forecast.streamlit.app/"
+			"url": "https://hg-dev-stock-forecast.streamlit.app/"
 		},
 		{
 			"name": "Banking App",
