@@ -9,7 +9,7 @@
 		"image": "/image.png",
 		"email": "hayden.garry99@gmail.com",
 		"url": "https://www.linkedin.com/in/hayden-garry/",
-		"summary": "Solution oriented Junior Software Engineer with experience evolving UI/UX designs using modern frontend frameworks, creating seamless integrations between backend services and constructing highly performant database queries.",
+		"summary": "Junior level Software Engineer with experience developing modern UI/UX designs using frontend frameworks, creating seamless integrations between backend services and constructing highly performant database queries.",
 		"theme": "blue",
 		"location": {
 			"city": "Sarasota",
@@ -42,9 +42,9 @@
 	},
 	"education": [
 		{
-			"institution": "State College of Florida-Manatee-Sarasota (certificate program)",
-			"url": "https://www.linkedin.com/school/state-college-of-florida-manatee-sarasota/posts/?feedView=all",
-			"area": "Web Development",
+			"institution": "SCF Coding Academy",
+			"url": "./public/CodingBootcampCertificate.png",
+			"area": "Coding Bootcamp",
 			"studyType": "Full-time student",
 			"startDate": "2023-03-01",
 			"endDate": "2023-09-01"
@@ -60,16 +60,22 @@
 	],
 	"certificates": [
 		{
-			"name": "HTML + CSS Specialist",
+			"name": "SCF Coding Bootcamp Certificate",
 			"date": "2023-09-01",
-			"url": "https://pdf.credential.net/e6yw2trp_1694190265201.pdf",
-			"issuer": "KnowledgePillars"
+			"url": "./public/CodingBootcampCertificate.png",
+			"issuer": "State College of Florida-Manatee-Sarasota"
 		},
 		{
 			"name": "Learn Javascript",
 			"date": "2023-09-01",
 			"url": "https://www.codecademy.com/profiles/board9321334956/certificates/705dcb15de0da4dd9d9fc4f3274b430e",
 			"issuer": "CodeAcademy"
+		},
+		{
+			"name": "HTML + CSS Specialist",
+			"date": "2023-09-01",
+			"url": "https://pdf.credential.net/e6yw2trp_1694190265201.pdf",
+			"issuer": "KnowledgePillars"
 		}
 	],
 	"work": [
@@ -98,9 +104,11 @@
 			"skills": {
 				"JavaScript ECMA6+": "simple-icons:javascript",
 				"TypeScript": "simple-icons:typescript",
+				"React": "simple-icons:react",
 				"NextJS": "simple-icons:nextdotjs",
 				"NodeJS": "ri:nodejs-line",
 				"Postman": "simple-icons:postman",
+				"ShadCN/ui": "simple-icons:shadcnui",
 				"HTML5": "simple-icons:html5",
 				"CSS": "simple-icons:css",
 				"Bootstrap": "simple-icons:bootstrap",
@@ -118,29 +126,9 @@
 	],
 	"skills": [
 		{
-			"name": "HTML",
-			"icon": "simple-icons:html5",
-			"keywords": ["Web Development", "Frontend"]
-		},
-		{
-			"name": "CSS",
-			"icon": "ri:css3-fill",
-			"keywords": ["Web Development", "Frontend", "Responsive Design"]
-		},
-		{
-			"name": "SCSS",
-			"icon": "simple-icons:sass",
-			"keywords": ["Web Development", "Frontend", "CSS Preprocessor", "Responsive Design"]
-		},
-		{
-			"name": "Tailwind",
-			"icon": "mdi:tailwind",
-			"keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
-		},
-		{
-			"name": "Bootstrap",
-			"icon": "simple-icons:bootstrap",
-			"keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+			"name": "React",
+			"icon": "simple-icons:react",
+			"keywords": ["Web Development", "Frontend Framework", "Reusable Components", "Responsive Design"]
 		},
 		{
 			"name": "JavaScript",
@@ -228,9 +216,44 @@
 			"keywords": ["API", "Testing", "Web Development", "Backend"]
 		},
 		{
+			"name": "ShadCN/ui",
+			"icon": "simple-icons:shadcnui",
+			"keywords": ["Web Development", "Frontend Framework", "Reusable Components", "Responsive Design", "UI/UX"]
+		},
+		{
+			"name": "HTML",
+			"icon": "simple-icons:html5",
+			"keywords": ["Web Development", "Frontend"]
+		},
+		{
+			"name": "CSS",
+			"icon": "ri:css3-fill",
+			"keywords": ["Web Development", "Frontend", "Responsive Design"]
+		},
+		{
+			"name": "SCSS",
+			"icon": "simple-icons:sass",
+			"keywords": ["Web Development", "Frontend", "CSS Preprocessor", "Responsive Design"]
+		},
+		{
+			"name": "Tailwind",
+			"icon": "mdi:tailwind",
+			"keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+		},
+		{
+			"name": "Bootstrap",
+			"icon": "simple-icons:bootstrap",
+			"keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+		},
+		{
 			"name": "Figma",
 			"icon": "simple-icons:figma",
 			"keywords": ["Prototyping", "Web Development", "Frontend"]
+		},
+		{
+			"name": "Jira",
+			"icon": "simple-icons:jira",
+			"keywords": ["Task Delegation", "Project Management", "Team Planning"]
 		}
 	],
 	"languages": [
@@ -264,7 +287,8 @@
 				"TypeScript": "simple-icons:typescript",
 				"Sentry": "simple-icons:sentry",
 				"NextJS": "simple-icons:nextdotjs",
-				"Appwrite": "simple-icons:appwrite"
+				"Appwrite": "simple-icons:appwrite",
+				"ShadCN/ui": "simple-icons:shadcnui"
 			}
 		},
 		{
