@@ -245,7 +245,7 @@
 			"isActive": true,
 			"description": "A Stock Forecast App built using Python, Streamlit, and various data science libraries. The app allows users to input OR select a stock ticker, download historical stock data from Yahoo Finance, and generate stock price predictions using Facebook Prophet. The results are visualized using Plotly for interactive graphs.",
 			"highlights": ["Simple, data driven app", "Made market research simple ", "Increased stock portfolio based on insights"],
-			"github": "https://github.com/Hayden-git/Stock-Forecastt",
+			"github": "https://github.com/Hayden-git/Stock-Forecast",
 			"stack": {
 				"Python": "simple-icons:python",
 				"Streamlit": "simple-icons:streamlit",
