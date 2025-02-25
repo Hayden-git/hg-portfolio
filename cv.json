@@ -266,7 +266,8 @@
 				"Sentry": "simple-icons:sentry",
 				"NextJS": "simple-icons:nextdotjs",
 				"Appwrite": "simple-icons:appwrite"
-			}
+			},
+			"url": "https://banking-app-mu-pink.vercel.app/sign-in"
 		},
 		{
 			"name": "Portfolio",
